@@ -1,5 +1,5 @@
-var music = ["mp3", "ape", "wav"];
-var foto = ["jpg", "png", "bmp"];
-var video = ["avi","mp4", "3gp"];
+var num1 = [1, 3, 5];
+var num2 = [7, 9, 2];
+var num3 = [4, 6, 8];
 
-var files = ["music", "foto", "video"];
+var num = [num1, num2, num3];
